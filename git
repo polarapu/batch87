@@ -52,3 +52,12 @@ git show
 or
 git show cid
 git push
+
+rm file-name (to dleete a file)
+ls
+git status
+gti add .
+git status
+gti commit -m "deleted file"
+git push
+
