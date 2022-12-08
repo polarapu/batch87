@@ -1,49 +1,49 @@
 git init
 
-git config --global user.name "Polarasdfjdslkfu Prasad"
-git config --global user.email "devopstrainingsdjfjsdf2015@gmail.com"
+git config --global user.name "Polarapu Prasad"
+git config --global user.email "devopstraining2015@gmail.com"
 
-git config --listvf
-df
+git config --list
+
 git config --global --unset user.name
-gidfvt config --global --unset user.email
-dfv
-===df=======================
-v
-tfdvouch file1
-lsdf
-git bvstatus
-git adfbfdbfdgdfbgfd file1
-git statusbfd
-git commit -mv "label" file1
-git statusdfv
-git logfd
-git showvdf
-orv
-gitfdv show cid
-dfv
----bdf-------------------
-touch bffile2 file3 file4
-lsb
-gitgfb add file2 file3 file4
-orgfb
-git agfbdd *
-orf
-gitb add .
-orfv
-git dfadd -A
-git covdsmmit -m "label"
-vdf
-===bfd=============================
-bfd
-gitb clone https://github.com/polarapu/batch87.git
-lsdfb
-cd bafdbtch87
-lsfgb
-touchgf file1
-lsbgf
-git sngftatus
-git add bcfile1
+git config --global --unset user.email
+
+==========================
+
+touch file1
+ls
+git status
+git add file1
+git status
+git commit -m "label" file1
+git status
+git log
+git show
+or
+git show cid
+
+----------------------
+touch file2 file3 file4
+ls
+git add file2 file3 file4
+or
+git add *
+or
+git add .
+or
+git add -A
+git commit -m "label"
+
+================================
+
+git clone https://github.com/polarapu/batch87.git
+ls
+cd batch87
+ls
+touch file1
+ls
+git status
+git add file1
 git status
 git commit -m "label" file1
 git status
